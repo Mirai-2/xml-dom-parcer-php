@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<materias>
+    <materia>
+        <nombre>Matemática 1</nombre>
+        <creditos>5</creditos>
+        <nivel>Segundo</nivel>
+        <horas>80</horas>
+    </materia>
+    <materia>
+        <nombre>Programación estructurada</nombre>
+        <creditos>4</creditos>
+        <nivel>Tercero</nivel>
+        <horas>60</horas>
+    </materia>
+    <materia>
+        <nombre>Física 1</nombre>
+        <creditos>3</creditos>
+        <nivel>Primero</nivel>
+        <horas>50</horas>
+    </materia>
+    <materia>
+        <nombre>Base de Datos 1</nombre>
+        <creditos>4</creditos>
+        <nivel>Cuarto</nivel>
+        <horas>60</horas>
+    </materia>
+    <materia>
+        <nombre>Redes 1</nombre>
+        <creditos>3</creditos>
+        <nivel>Sexto</nivel>
+        <horas>50</horas>
+    </materia>
+    <materia>
+        <nombre>Aplicaciones Web</nombre>
+        <creditos>4</creditos>
+        <nivel>Quinto</nivel>
+        <horas>60</horas>
+    </materia>
+</materias>
